@@ -18,4 +18,3 @@ GitHub brukernavn: FanuelHab
 
 
 La til GitHub brukernavn i README.md
->>>>>>> c80a018e3e68f686beeb195d1e8f5472f4ddb4a4
